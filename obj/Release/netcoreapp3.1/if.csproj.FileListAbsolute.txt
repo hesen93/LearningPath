@@ -1,0 +1,13 @@
+C:\Users\baliy\OneDrive\Desktop\Hasan-LearningPath\Tasks\if\bin\Release\netcoreapp3.1\if.exe
+C:\Users\baliy\OneDrive\Desktop\Hasan-LearningPath\Tasks\if\bin\Release\netcoreapp3.1\if.deps.json
+C:\Users\baliy\OneDrive\Desktop\Hasan-LearningPath\Tasks\if\bin\Release\netcoreapp3.1\if.runtimeconfig.json
+C:\Users\baliy\OneDrive\Desktop\Hasan-LearningPath\Tasks\if\bin\Release\netcoreapp3.1\if.runtimeconfig.dev.json
+C:\Users\baliy\OneDrive\Desktop\Hasan-LearningPath\Tasks\if\bin\Release\netcoreapp3.1\if.dll
+C:\Users\baliy\OneDrive\Desktop\Hasan-LearningPath\Tasks\if\bin\Release\netcoreapp3.1\if.pdb
+C:\Users\baliy\OneDrive\Desktop\Hasan-LearningPath\Tasks\if\obj\Release\netcoreapp3.1\if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baliy\OneDrive\Desktop\Hasan-LearningPath\Tasks\if\obj\Release\netcoreapp3.1\if.AssemblyInfoInputs.cache
+C:\Users\baliy\OneDrive\Desktop\Hasan-LearningPath\Tasks\if\obj\Release\netcoreapp3.1\if.AssemblyInfo.cs
+C:\Users\baliy\OneDrive\Desktop\Hasan-LearningPath\Tasks\if\obj\Release\netcoreapp3.1\if.csproj.CoreCompileInputs.cache
+C:\Users\baliy\OneDrive\Desktop\Hasan-LearningPath\Tasks\if\obj\Release\netcoreapp3.1\if.dll
+C:\Users\baliy\OneDrive\Desktop\Hasan-LearningPath\Tasks\if\obj\Release\netcoreapp3.1\if.pdb
+C:\Users\baliy\OneDrive\Desktop\Hasan-LearningPath\Tasks\if\obj\Release\netcoreapp3.1\if.genruntimeconfig.cache
